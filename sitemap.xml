@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.twevan.com/</loc>
+    <loc>https://blog.twevan.com/</loc>
   </url>
   
   <url>
-    <loc>http://www.twevan.com/categories.html</loc>
+    <loc>https://blog.twevan.com/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.twevan.com/evan.html</loc>
+    <loc>https://blog.twevan.com/evan.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.twevan.com/series.html</loc>
+    <loc>https://blog.twevan.com/series.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.twevan.com/tags.html</loc>
+    <loc>https://blog.twevan.com/tags.html</loc>
     <priority>0</priority>
   </url>
   

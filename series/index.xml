@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on TW Evan</title>
-    <link>http://www.twevan.com/series.html</link>
+    <link>https://blog.twevan.com/series.html</link>
     <description>Recent content in Series on TW Evan</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://www.twevan.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.twevan.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
